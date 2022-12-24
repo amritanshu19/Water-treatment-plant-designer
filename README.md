@@ -17,3 +17,5 @@ Select treatment methods: Based on the characteristics of the water and the desi
 Design the treatment unit: Using the selected treatment methods, we will design the treatment unit including the necessary equipment and layout.
 
 Evaluate and optimize the design: We will evaluate the effectiveness of the treatment unit through testing and make any necessary adjustments to optimize the design.
+
+Read the explaination doc [here](https://amritanshu19.github.io/Water-treatment-plant-designer/)
